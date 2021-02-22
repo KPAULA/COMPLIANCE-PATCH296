@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Prompt INI Patch 2.9.6.2 - Alteracoes no CSF_OWN - 
+Prompt INI Patch 2.9.6.2 - Alteracoes no CSF_OWN  
 ------------------------------------------------------------------------------------------
 
 insert into csf_own.versao_sistema ( ID
