@@ -15,7 +15,7 @@ insert into csf_own.versao_sistema ( ID
 commit
 /
 -------------------------------------------------------------------------------------------------------------------------------
-Prompt INI - Redmine #75477 -  Criaï¿½ï¿½o de Job Scheduler JOB_CORRIGIR_NF_CT
+Prompt INI - Redmine #75477 -  Criação de Job Scheduler JOB_CORRIGIR_NF_CT
 -------------------------------------------------------------------------------------------------------------------------------
 
 DECLARE 
